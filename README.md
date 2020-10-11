@@ -6,8 +6,6 @@ You can find me on [![LinkedIn][linkedinLogo]][1].
 
 - 🔭 I’m currently working on: CodeReady Dependency Analytics [VScode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) 
 - 🌱 I’m currently learning: Vue <img src="https://vuejs.org/images/logo.png" width="12"> 
-- 😄 Pronouns: He/Him
-
 
 ## GitHub Stats <img src="graph.gif" width="28"> 
 
