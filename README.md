@@ -11,16 +11,14 @@ I am a Associate Software Engineer and AWS Solutions Architect Associate, curren
 
 ## GitHub Stats <img src="graph.gif" width="28"> 
 
-![mathur07's github stats](https://github-readme-stats.vercel.app/api?username=mathur07&count_private=true&show_icons=true&theme=solarized-light)
-![mathur07's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mathur07&&layout=compact&count_private=true&show_icons=true&theme=solarized-light)
+<img src="https://github-readme-stats.vercel.app/api?username=mathur07&count_private=true&show_icons=true&theme=solarized-light" alt="mathur07's github stats" height="160"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathur07&&layout=compact&count_private=true&show_icons=true&theme=solarized-light" alt="mathur07's github stats" height="160">
+
 
 
 <!--
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
 - ⚡ Fun fact: ...
 -->
