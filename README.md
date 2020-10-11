@@ -2,7 +2,7 @@
 
 My name is Shubham Mathur. You can call me Mathur :wink:.
 I am a Associate Software Engineer and AWS Solutions Architect Associate, currently working at Red Hat.
-You can find me on [![LinkedIn][linkedinLogo]][1]. .
+You can find me on [![LinkedIn][linkedinLogo]][1].
 
 - 🔭 I’m currently working on: CodeReady Dependency Analytics [VScode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) 
 - 🌱 I’m currently learning: Vue <img src="https://vuejs.org/images/logo.png" width="12"> 
