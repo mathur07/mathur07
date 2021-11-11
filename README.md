@@ -11,7 +11,11 @@ You can find me on [![LinkedIn][linkedinLogo]][1].
 
 <img src="https://github-readme-stats.vercel.app/api?username=mathur07&count_private=true&show_icons=true&theme=solarized-light" alt="mathur07's github stats" height="160"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathur07&&layout=compact&count_private=true&show_icons=true&theme=solarized-light" alt="mathur07's github stats" height="160">
 
+<p align="left"> 
+  <img src=https://komarev.com/ghpvc/?username=mathur07>
+</p>
 <!-- icons -->
+
 [linkedinLogo]: linkedin.png
 
 <!-- links to social media accounts -->
