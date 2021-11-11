@@ -1,10 +1,11 @@
 ## Hello, folks! <img src="wave.gif" width="28">
 
+
+<img align="right" alt="GIF" src="code.gif" width="250" height="166" />
+
 My name is Shubham Mathur. You can call me Mathur :wink:.
 I am an Associate Software Engineer and AWS Solutions Architect, currently working at Red Hat.
 You can find me on [![LinkedIn][linkedinLogo]][1].
-
-<img align="right" alt="GIF" src="https://github.com/mathur07/mathur07/blob/master/code.gif?raw=true" width="320" height="140" />
 
 - 🔭 I’m currently working on: CodeReady Dependency Analytics [VScode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) 
 - 🌱 I’m currently learning: Vue <img src="https://vuejs.org/images/logo.png" width="12"> 
