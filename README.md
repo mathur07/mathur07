@@ -6,7 +6,6 @@
 My name is Shubham Mathur. You can call me Mathur :wink:.
 I am a masters student at University of Washington- Michael G. Foster School of Business (MSIS), ex - Software Engineer and AWS Solutions Architect.
 </br>
-</br>
 You can find me on [![LinkedIn][linkedinLogo]][1].
 </br>
 
