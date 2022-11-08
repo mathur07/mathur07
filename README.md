@@ -4,7 +4,9 @@
 <img align="right" alt="GIF" src="code.gif" width="250" height="166" />
 
 My name is Shubham Mathur. You can call me Mathur :wink:.
-I am a masters student at University of Washington- Michael G. Foster School of Business (MSIS), ex - Software Engineer and AWS Solutions Architect.</br>
+I am a masters student at University of Washington- Michael G. Foster School of Business (MSIS), ex - Software Engineer and AWS Solutions Architect.
+</br>
+</br>
 You can find me on [![LinkedIn][linkedinLogo]][1].
 
 <!-- - 🔭 I’m currently working on: CodeReady Dependency Analytics [VScode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) -->
